@@ -1,3 +1,6 @@
+Access the deployed web app here :
+[https://data557project-salarybias.streamlit.app](https://data557project-salarybias.streamlit.app)
+
 ## Overview
 
 This project is part of the DATA 557 - Applied Stats And Exp Design course. It involves analyzing faculty salary data from a US university to investigate potential differences between male and female faculty. The dataset includes information
